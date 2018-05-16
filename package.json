@@ -4,6 +4,7 @@
   "description": "who are you",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.18.0",
     "pug": "^2.0.3"
   },
   "devDependencies": {},
