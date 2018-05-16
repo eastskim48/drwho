@@ -12,5 +12,9 @@
     "WEBSITE_CONTENTSHARE": "loki-test-003a514",
     "WEBSITE_SITE_NAME": "loki-test-003",
     "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=lokitest003a514;AccountKey=fKQ0MJ9ZiKj74l087slXmNRJqhrFUfRx62Um2Ax/Gy+pBZiDZuuy9ctHIbTFfH35nwzOUnb/7MItXlGJgpzBSw=="
+  },
+  "Host": {
+    "LocalHttpPort": 7071, 
+    "CORS": "*" 
   }
 }
